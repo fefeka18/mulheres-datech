@@ -1,0 +1,26 @@
+body,html {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(fundoninasilva.jpg);
+}
+
+header {
+  background-color: white; 
+  text-align: center;
+  color: black;
+  height: 50px;
+}
+.biografia{
+  height: auto;
+  text-align: justify;
+  color: white;
+  
+   
+}
+.tecnologia{
+    border: 5px solid darkred;
+    float: left;
+    text-align: justify;
+    padding: 2%;
+ }
